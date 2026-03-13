@@ -12,7 +12,7 @@ An interactive **Sales Dashboard built in Microsoft Excel** using Pivot Tables, 
 
 ## 🧩 Data Model
 
-![Data Model](Data_model.png)
+![Data Model](Data-model.png)
 
 ---
 
